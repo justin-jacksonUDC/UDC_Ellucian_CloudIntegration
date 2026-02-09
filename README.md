@@ -25,6 +25,7 @@ See `/docs/frameworks` for detailed steps and `/docs/runbooks` for Day‑2 opera
 - [Purpose](#purpose)
 - [Scope & Audience](#scope--audience)
 - [Decision Tree](#decision-tree)
+- [Application Inventory](#application-inventory)
 - [Framework 1 — Ellucian Ethos (Low Complexity)](#framework-1--ellucian-ethos-low-complexity)
 - [Framework 2 — API via MuleSoft (Medium Complexity)](#framework-2--api-via-mulesoft-medium-complexity)
 - [Framework 3 — AWS SFTP / Flat-File (High Complexity)](#framework-3--aws-sftp--flat-file-high-complexity)
@@ -66,6 +67,12 @@ Is the app an Ellucian Partner and/or uses Ethos data models?
      └─ No APIs → Use Framework 3 (AWS SFTP / Flat‑File)
 ```
 
+## Application Inventory
+
+Use the following link to access the Application Inventory spreadsheet where integration information is on each application the university uses.
+https://liveudc.sharepoint.com/:f:/s/OITDocumentRepository-OITApplications/IgBs-NbbNSH2QY2xVRhQLXB9ATnOd1tu1w_q1E-BPXXuHwc?e=LKCAR2
+
+---
 **Complexity Heuristic**
 - **LOW:** Ellucian partner + Ethos
 - **MEDIUM:** Non‑partner but has APIs
