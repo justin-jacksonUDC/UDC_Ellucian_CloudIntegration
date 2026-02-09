@@ -6,14 +6,14 @@
 See `/docs/frameworks` for detailed steps and `/docs/runbooks` for Day‑2 operations.
 
 ## Quick Links
-- [Frameworks](docs/frameworks/README.md)
-- [Mapping Templates](docs/mapping-templates/)
-- [Security](docs/security/)
-- [Runbooks](docs/runbooks/)
+- [Frameworks](/frameworks/README.md)
+- [Mapping Templates](/mapping-templates/)
+- [Security](/security/)
+- [Runbooks](/runbooks/)
 - [Architecture Diagrams](docs/architecture/)
-- [Samples](docs/samples/)
-- [Standards](docs/standards/)
-- [Vendor Guides](docs/vendor-guides/)
+- [Samples](/samples/)
+- [Standards](/standards/)
+- [Vendor Guides](/vendor-guides/)
 
 ## Ownership
 Ellucian operates Banner SaaS; **our team owns integrations** (design, build, credentials, mapping, monitoring).
