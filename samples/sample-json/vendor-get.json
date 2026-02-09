@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "studentId": "900123456",
+      "status": "active"
+    }
+  ],
+  "paging": {
+    "next": null
+  }
+}
