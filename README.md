@@ -70,6 +70,7 @@ Is the app an Ellucian Partner and/or uses Ethos data models?
 ## Application Inventory
 
 Use the following link to access the Application Inventory spreadsheet where integration information is on each application the university uses.
+Note: Applications highlighted purple are Ellucian partners
 https://liveudc.sharepoint.com/:f:/s/OITDocumentRepository-OITApplications/IgBs-NbbNSH2QY2xVRhQLXB9ATnOd1tu1w_q1E-BPXXuHwc?e=LKCAR2
 
 ---
