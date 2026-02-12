@@ -74,7 +74,8 @@ Credential management, secrets handling, OAuth guidance
 
 ### **📄 Application Integration Inventory Spreadsheet**  
 The master file listing all applications, integration methods, API links, and owner notes  
-👉 [`Application Integration Spreadsheet.xlsx`](./Application%20Integration%20Spreadsheet.xlsx)
+👉 >**View the full documentation website:**
+> https://liveudc.sharepoint.com/:x:/r/sites/OITDocumentRepository-OITApplications/_layouts/15/Doc.aspx?sourcedoc=%7B568AD5AF-F543-46A6-88E3-F4AAE06BF21A%7D&file=Application%20Integration%20Spreadsheet.xlsx&action=default&mobileredirect=true
 
 This is essential for:
 - Understanding existing integrations  
