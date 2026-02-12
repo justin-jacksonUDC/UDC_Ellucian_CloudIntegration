@@ -42,7 +42,7 @@ Integration patterns for **Ethos**, **API (MuleSoft)**, and **AWS SFTP**
 
 ### **📁 Architecture Diagrams**  
 High-level and system-specific integration diagrams  
-👉 ./architecture
+👉 [`/architecture`](./architecture)
 
 ---
 
@@ -60,7 +60,7 @@ On‑call procedures and recovery steps for integrations
 
 ### **📁 Samples**  
 Real API payloads and SFTP files for reference  
-👉 ./samples  
+👉 [`/samples`](./samples)  
 Contains:  
 - `/sample-json/` — example API payloads  
 
@@ -68,7 +68,7 @@ Contains:
 
 ### **📁 Security Standards**  
 Credential management, secrets handling, OAuth guidance  
-👉 ./security
+👉 [`/security`](./security) 
 
 ---
 
