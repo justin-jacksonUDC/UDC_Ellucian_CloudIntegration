@@ -1,0 +1,1 @@
+MuleSoft setup instructions placeholder.

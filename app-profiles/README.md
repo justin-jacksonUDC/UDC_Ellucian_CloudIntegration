@@ -1,0 +1,1 @@
+Each app gets its own folder with profile.md, schema.md, etc.

@@ -1,0 +1,1 @@
+API to Banner pattern placeholder.
