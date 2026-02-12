@@ -7,7 +7,6 @@ Centralized documentation for all integration work related to UDC’s migration 
 Start with the onboarding guide:
 
 👉 **[START-HERE.md](./_START-HERE.md)**  
-(If renamed to `_START-HERE.md`, update the link accordingly.)
 
 This guide explains:
 - How to navigate this repo  
